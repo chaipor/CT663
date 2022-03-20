@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Play_Game
+Sunny,Hot,59,No,No
+Sunny,Hot,61,Yes,No
+Overcast,Hot,62,No,Yes
+Rainy,Mild,63,No,Yes
+Rainy,Cool,61,No,No
+Rainy,Cool,58,Yes,No
+Overcast,Cool,54,Yes,Yes
+Sunny,Mild,58,No,No
+Sunny,Mild,57,No,Yes
+Rainy,Mild,64,No,Yes
+Sunny,Mild,55,Yes,Yes
+Overcast,Mild,56,Yes,Yes
+Overcast,Hot,59,No,Yes
+Rainy,Mild,60,Yes,No
